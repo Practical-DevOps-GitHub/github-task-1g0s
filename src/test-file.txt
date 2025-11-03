@@ -1,0 +1,10 @@
+Testing complete GitHub setup:
+- Branch protection rules
+- Discord webhook notifications
+- PR template
+- CODEOWNERS
+
+This PR should trigger:
+1. Discord notification when created
+2. Require 2 approvals to merge to develop
+3. Show PR template in description
